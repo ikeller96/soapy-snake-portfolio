@@ -13,13 +13,13 @@ function App() {
           <Button text="Web3 Test" url="https://web3test.soapysnake.com" />
           <Button
             text="MetaMask Connection"
-            url="https://web3test.soapysnake.com"
-            disabled={true}
+            url="https://nftmint.soapysnake.com"
+            disabled={false}
           />
           <Button
             text="Phaser Test"
             url="https://web3test.soapysnake.com"
-            disabled={true}
+            disabled={false}
           />
         </div>
       </body>
